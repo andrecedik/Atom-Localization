@@ -1,25 +1,10 @@
 {
   "name": "localization",
   "main": "./lib/main",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Localizations for Atom",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/pandarison/Atom-Localization"
-  },
+  "repository": "https://github.com/pandarison/Atom-Localization",
   "engines": {
     "atom": ">0.50.0"
-  },
-  "readme": "#Atom Localizations\n===\nAtom Localization is a package for Atom Editor. \n\n###Install\n- Download all files in /src and put them into your Atom package directory.\n\n\n\n\n\n\n\n###Release Notes\n\n#####Version 0.1.0\n\tAdd Simplified Chinese support\n\tAdd Traditional Chinese Support",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/pandarison/Atom-Localization/issues"
-  },
-  "homepage": "https://github.com/pandarison/Atom-Localization",
-  "_id": "localization@0.2.0",
-  "dist": {
-    "shasum": "b14d5f522754162c1209df8f1ac5e00a92f6a924"
-  },
-  "_resolved": "/var/folders/gc/mk3lhsm97zg__mcbp6d04z0w0000gn/T/d-114210-5994-16s3xq0/package.tgz",
-  "_from": "/var/folders/gc/mk3lhsm97zg__mcbp6d04z0w0000gn/T/d-114210-5994-16s3xq0/package.tgz"
+  }
 }
