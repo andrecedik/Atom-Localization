@@ -1,0 +1,10 @@
+{
+  "name": "localization",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Localizations for Atom",
+  "repository": "https://github.com/atom/localization",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
