@@ -1,7 +1,7 @@
 module.exports =
   loadLocalization: () ->
     languages = require('../languages.json')
-    selection = atom.config.get('localization. - currentLanguage')
+    selection = atom.config.get('localization. - CurrentLanguage')
     if selection == "default"
       return
     for l in languages
@@ -24,7 +24,7 @@ module.exports =
     languages.push {"language":"default", "path":"default"}
     for language in languages
       if atom.config.get("localization." + language['language']) == true
-        atom.config.set('localization. - currentLanguage', language['language'])
+        atom.config.set('localization. - CurrentLanguage', language['language'])
         atom.config.set("localization." + language['language'], false)
         atom.reload()
 
@@ -39,8 +39,8 @@ module.exports =
         atom.config.set("localization." + language['language'], false)
 
     setTimeout( ( (father)->
-        if not atom.config.get('localization. - currentLanguage')
-          atom.config.set('localization. - currentLanguage', 'default')
+        if not atom.config.get('localization. - CurrentLanguage')
+          atom.config.set('localization. - CurrentLanguage', 'default')
         father.loadLocalization()
         father.addObserver()
       )
