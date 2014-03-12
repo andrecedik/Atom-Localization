@@ -1,0 +1,176 @@
+{
+  "menu":{
+    "Atom":{
+        "value":"Atom",
+        "submenu":{
+            "About Atom":{"value":"Om Atom"},
+            "View License":{"value":"Vis Licens"},
+            "Preferences...":{"value":"Indstillinger..."},
+            "Open Your Config":{"value":"Åbn Din Konfigurationsfil"},
+            "Open Your Init Script":{"value":"Åbn Dit Init Script"},
+            "Open Your Keymap":{"value":"Åbn Din Keyboardmapping"},
+            "Open Your Snippets":{"value":"Åbn Dine Snippets"},
+            "Open Your Stylesheet":{"value":"Åbn Dit Stylesheet"},
+            "Install Shell Commands":{"value":"Installer Kommandolinie Værktøjer"},
+            "Hide Atom":{"value":"Skjul Atom"},
+            "Hide Others":{"value":"Skjul Andre"},
+            "Show All":{"value":"Vis Alle"},
+            "Quit":{"value":"Afslut"}
+        }
+    },
+    "File":{
+        "value":"Filer",
+        "submenu":{
+            "New Window":{"value":"Nyt Vindue"},
+            "New File":{"value":"Ny Fil"},
+            "Open...":{"value":"Åbn..."},
+            "Reopen Last Item":{"value":"Genåbn sidste element"},
+            "Save":{"value":"Gem"},
+            "Save As...":{"value":"Gem Som..."},
+            "Save All":{"value":"Gem Alle"},
+            "Close Buffer":{"value":"Luk Buffer"},
+            "Close All Buffers":{"value":"Luk Alle Buffere"},
+            "Close Window":{"value":"Luk Vindue"}
+        }
+    },
+    "Edit":{
+        "value":"Rediger",
+        "submenu":{
+            "Undo":{"value":"Fortryd"},
+            "Redo":{"value":"Anuller Fortryd"},
+            "Cut":{"value":"Klip"},
+            "Copy":{"value":"Kopier"},
+            "Copy Path":{"value":"Kopier Sti"},
+            "Paste":{"value":"Indsæt"},
+            "Select All":{"value":"Vælg Alt"},
+            "Toggle Comments":{"value":"Kommentarer Til/Fra"},
+            "Lines":{
+                "value":"Linier",
+                "submenu":{
+                    "Indent":{"value":"Forøg Indrykningen"},
+                    "Outdent":{"value":"Formindsk Indrykningen"},
+                    "Auto Indent":{"value":"Indryk Automatisk"},
+                    "Move Line Up":{"value":"Flyt Linie Opad"},
+                    "Move Line Down":{"value":"Flyt Linie Nedad"},
+                    "Duplicate Line":{"value":"Duplikér Linie"},
+                    "Delete Line":{"value":"Slet Linje"},
+                    "Join Lines":{"value":"Kombiner Linjer"}
+                }
+            },
+            "Text":{
+                "value":"Tekst",
+                "submenu":{
+                    "Upper Case":{"value":"Store Bogstaver"},
+                    "Lower Case":{"value":"Små Bogstaver"},
+                    "Delete to End of Word":{"value":"Slet til Slutningen af Ordet"},
+                    "Delete Line":{"value":"Slet Linje"},
+                    "Transpose":{"value":"Transponér"}
+                }
+            },
+            "Folding":{
+                "value":"Foldning",
+                "submenu":{
+                    "Fold":{"value":"Fold"},
+                    "Unfold":{"value":"Fold Ud"},
+                    "Unfold All":{"value":"Udfold Alt"},
+                    "Fold All":{"value":"Fold Alle"},
+                    "Fold Level 1":{"value":"Fold Niveau 1"},
+                    "Fold Level 2":{"value":"Fold Niveau 2"},
+                    "Fold Level 3":{"value":"Fold Niveau 3"},
+                    "Fold Level 4":{"value":"Fold Niveau 4"},
+                    "Fold Level 5":{"value":"Fold Niveau 5"},
+                    "Fold Level 6":{"value":"Fold Niveau 6"},
+                    "Fold Level 7":{"value":"Fold Niveau 7"},
+                    "Fold Level 8":{"value":"Fold Niveau 8"},
+                    "Fold Level 9":{"value":"Fold Niveau 9"}
+                }
+            },
+            "Go to Line":{"value":"Gå til Linienummer"},
+            "Reflow Paragraph":{"value":"Ombryd Paragraf"},
+            "Bookmark":{
+                "value":"Bogmærke",
+                "submenu":{
+                    "View All":{"value":"Vis Alle"},
+                    "Toggle Bookmark":{"value":"Bogmærke Til/Fra"},
+                    "Jump to Next Bookmark":{"value":"Spring til Næste Bogmærke"},
+                    "Jump to Previous Bookmark":{"value":"Spring til Forrige Bogmærke"}
+                }
+            },
+            "Select Grammar":{"value":"Vælg Gammatik"}
+        }
+    },
+    "Selection":{
+        "value":"Markering",
+        "submenu":{
+            "Add Selection Above":{"value":"Udvid Markering Opad"},
+            "Add Selection Below":{"value":"Udvid Markering Nedad"},
+            "Split into Lines":{"value":"Inddel i Linier"},
+            "Select to Top":{"value":"Marker til Top"},
+            "Select to Bottom":{"value":"Marker til Bund"},
+            "Select Line":{"value":"Marker Linie"},
+            "Select Word":{"value":"Marker Ord"},
+            "Select to Beginning of Word":{"value":"Marker til Start på Ordet"},
+            "Select to Beginning of Line":{"value":"Marker til Start på Linien"},
+            "Select to First Character of Line":{"value":"Marker til Første Bogstav i Linjen"},
+            "Select to End of Word":{"value":"Marker til Sidst i Ordet"},
+            "Select to End of Line":{"value":"Marker til Slutningen af Linien"}
+        }
+    },
+    "Find":{
+        "value":"Find",
+        "submenu":{
+            "Find in Buffer":{"value":"Find i Buffer"},
+            "Replace in Buffer":{"value":"Erstat i Buffer"},
+            "Select Next":{"value":"Vælg Næste"},
+            "Select All":{"value":"Vælg Alt"},
+            "Find in Project":{"value":"Find i Projekt"},
+            "Find Next":{"value":"Find Næste"},
+            "Find Previous":{"value":"Find Forrige"},
+            "Replace Next":{"value":"Erstat Næste"},
+            "Replace All":{"value":"Erstat Alle"},
+            "Find Buffer":{"value":"Find Buffer"},
+            "Find File":{"value":"Find Fil"},
+            "Find Modified File":{"value":"Find Ændret Fil"}
+        }
+    },
+    "View":{
+        "value":"Vis",
+        "submenu":{
+            "Reload":{"value":"Genindlæs"},
+            "Toggle Full Screen":{"value":"Fuldskærmsvisning Til/Fra"},
+            "Developer":{
+                "value":"Udvikler",
+                "submenu":{
+                    "Open In Dev Mode...":{"value":"Åben I Udviklingstilstand"},
+                    "Run Atom Specs":{"value":"Afvikl Atom Tests"},
+                    "Run Package Specs":{"value":"Afvikl Pakke Tests"},
+                    "Toggle Developer Tools":{"value":"Udvikler Værktøjer Til/Fra"}
+                }
+            },
+            "Toggle Soft Wrap":{"value":"Linieombrydning Til/Fra"},
+            "Toggle Command Palette":{"value":"Kommandovindue Til/Fra"},
+            "Toggle Tree View":{"value":"Trævisning Til/Fra"}
+        }
+    },
+    "Packages":{
+        "value":"Pakker"
+    },
+    "Window":{
+        "value":"Vindue",
+        "submenu":{
+            "Minimize":{"value":"Minimer"},
+            "Zoom":{"value":"Zoom"},
+            "Bring All to Front":{"value":"Bring Alle Forrest"},
+            "名称":{"value":"Your Translation??"}
+        }
+    },
+    "Help":{
+        "value":"Hjælp",
+        "submenu":{
+            "Documentation":{"value":"Dokumentation"},
+            "Send Feedback":{"value":"Send Feedback"},
+            "Release Notes":{"value":"Om Denne Version"}
+        }
+    }
+  }
+}
