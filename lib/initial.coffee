@@ -3,3 +3,4 @@ module.exports =
     initial: () ->
         atom.config.settings.localization = {}
         atom.config.save()
+        atom.reload()
