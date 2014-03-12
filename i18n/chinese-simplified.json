@@ -15,7 +15,8 @@
             "Hide Atom":{"value":"隐藏 Atom"},
             "Hide Others":{"value":"隐藏 其它"},
             "Show All":{"value":"显示 全部"},
-            "Quit":{"value":"退出"}
+            "Quit":{"value":"退出"},
+            "Check for Update":{"value":"检查更新"}
         }
     },
     "File":{
@@ -52,7 +53,7 @@
                     "Auto Indent":{"value":"自动缩进"},
                     "Move Line Up":{"value":"向上切换行"},
                     "Move Line Down":{"value":"向下切换行"},
-                    "Duplicate Line":{"value":"复制行"},
+                    "Duplicate Lines":{"value":"复制行"},
                     "Delete Line":{"value":"删除行"},
                     "Join Lines":{"value":"合并行"}
                 }
@@ -149,7 +150,8 @@
             },
             "Toggle Soft Wrap":{"value":"自动换行"},
             "Toggle Command Palette":{"value":"开启/关闭 控制台"},
-            "Toggle Tree View":{"value":"开启/关闭 树形目录视图"}
+            "Toggle Tree View":{"value":"开启/关闭 树形目录视图"},
+            "Toggle Tree Side":{"value":"转换树形目录视图位置"}
         }
     },
     "Packages":{

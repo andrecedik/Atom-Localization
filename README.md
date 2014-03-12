@@ -44,5 +44,5 @@ Any translation in languages not listed above are welcome, as well as better tra
 * Fixed some bugs
 
 #####Version 0.1.0
-* Add Simplified Chinese support
+* Add Simplified Chinese Support
 * Add Traditional Chinese Support

@@ -15,7 +15,8 @@
             "Hide Atom":{"value":"Skjul Atom"},
             "Hide Others":{"value":"Skjul Andre"},
             "Show All":{"value":"Vis Alle"},
-            "Quit":{"value":"Afslut"}
+            "Quit":{"value":"Afslut"},
+            "Check for Update":{"value":"Check for Update"}
         }
     },
     "File":{
@@ -52,7 +53,7 @@
                     "Auto Indent":{"value":"Indryk Automatisk"},
                     "Move Line Up":{"value":"Flyt Linie Opad"},
                     "Move Line Down":{"value":"Flyt Linie Nedad"},
-                    "Duplicate Line":{"value":"Duplikér Linie"},
+                    "Duplicate Lines":{"value":"Duplikér Linie"},
                     "Delete Line":{"value":"Slet Linje"},
                     "Join Lines":{"value":"Kombiner Linjer"}
                 }
@@ -149,7 +150,8 @@
             },
             "Toggle Soft Wrap":{"value":"Linieombrydning Til/Fra"},
             "Toggle Command Palette":{"value":"Kommandovindue Til/Fra"},
-            "Toggle Tree View":{"value":"Trævisning Til/Fra"}
+            "Toggle Tree View":{"value":"Trævisning Til/Fra"},
+            "Toggle Tree Side":{"value":"Toggle Tree Side"}
         }
     },
     "Packages":{

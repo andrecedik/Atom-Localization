@@ -15,7 +15,8 @@
             "Hide Atom":{"value":"隱藏 Atom"},
             "Hide Others":{"value":"隱藏 其它"},
             "Show All":{"value":"顯示 全部"},
-            "Quit":{"value":"退出"}
+            "Quit":{"value":"退出"},
+            "Check for Update":{"value":"檢查更新"}
         }
     },
     "File":{
@@ -52,7 +53,7 @@
                     "Auto Indent":{"value":"自動縮進"},
                     "Move Line Up":{"value":"向上切換行"},
                     "Move Line Down":{"value":"向下切換行"},
-                    "Duplicate Line":{"value":"復制行"},
+                    "Duplicate Lines":{"value":"復制行"},
                     "Delete Line":{"value":"刪除行"},
                     "Join Lines":{"value":"合並行"}
                 }
@@ -149,7 +150,8 @@
             },
             "Toggle Soft Wrap":{"value":"自動換行"},
             "Toggle Command Palette":{"value":"開啟/關閉 控制臺"},
-            "Toggle Tree View":{"value":"開啟/關閉 樹形目錄視圖"}
+            "Toggle Tree View":{"value":"開啟/關閉 樹形目錄視圖"},
+            "Toggle Tree Side":{"value":"轉換樹形目錄視圖位置"}
         }
     },
     "Packages":{

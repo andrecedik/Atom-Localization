@@ -15,7 +15,8 @@
             "Hide Atom":{"value":"Your Translation"},
             "Hide Others":{"value":"Your Translation"},
             "Show All":{"value":"Your Translation"},
-            "Quit":{"value":"Your Translation"}
+            "Quit":{"value":"Your Translation"},
+            "Check for Update":{"value":"Your Translation"}
         }
     },
     "File":{
@@ -52,7 +53,7 @@
                     "Auto Indent":{"value":"Your Translation"},
                     "Move Line Up":{"value":"Your Translation"},
                     "Move Line Down":{"value":"Your Translation"},
-                    "Duplicate Line":{"value":"Your Translation"},
+                    "Duplicate Lines":{"value":"Your Translation"},
                     "Delete Line":{"value":"Your Translation"},
                     "Join Lines":{"value":"Your Translation"}
                 }
@@ -149,7 +150,8 @@
             },
             "Toggle Soft Wrap":{"value":"Your Translation"},
             "Toggle Command Palette":{"value":"Your Translation"},
-            "Toggle Tree View":{"value":"Your Translation"}
+            "Toggle Tree View":{"value":"Your Translation"},
+            "Toggle Tree Side":{"value":"Your Translation"}
         }
     },
     "Packages":{
