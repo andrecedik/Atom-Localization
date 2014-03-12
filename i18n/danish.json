@@ -160,8 +160,7 @@
         "submenu":{
             "Minimize":{"value":"Minimer"},
             "Zoom":{"value":"Zoom"},
-            "Bring All to Front":{"value":"Bring Alle Forrest"},
-            "名称":{"value":"Your Translation??"}
+            "Bring All to Front":{"value":"Bring Alle Forrest"}
         }
     },
     "Help":{
