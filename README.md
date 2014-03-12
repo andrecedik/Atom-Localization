@@ -17,7 +17,7 @@ Atom Localization is a package for Atom Editor.
 Any translation in languages not listed above are welcome, as well as better translation for those in list.
 
 ###How to localize
-- Download [the json file](https://raw.github.com/pandarison/Atom-Localization/master/i18n/ default.json) and replace "Your Translation" fileds.
+- Download [the json file](https://raw.github.com/pandarison/Atom-Localization/master/i18n/default.json) and replace "Your Translation" fileds.
 - You can also add translations for other menu. Just follow the format.
 - Put the file into /i18n under root directory of the package.
 - Add your language name to languages.json under the root directory of the package. 
@@ -33,7 +33,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Version 0.7.0
+##### Version 0.8.0
 	Remove old configuration when upgrade to new version
 
 #####Version 0.3.0
