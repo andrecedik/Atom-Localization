@@ -4,13 +4,13 @@ Atom Localization is a package for Atom Editor.
 
 
 
-###Support Languages
+###Supported Languages
 - Chinese Simplified
 - Chinese Traditional
 - Danish
 
 
-###Install
+###Installation
 - Please install through Atom->Preferences->Packages: localization
 
 
