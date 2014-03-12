@@ -160,8 +160,7 @@
         "submenu":{
             "Minimize":{"value":"Your Translation"},
             "Zoom":{"value":"Your Translation"},
-            "Bring All to Front":{"value":"Your Translation"},
-            "名称":{"value":"Your Translation"}
+            "Bring All to Front":{"value":"Your Translation"}
         }
     },
     "Help":{

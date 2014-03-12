@@ -160,8 +160,7 @@
         "submenu":{
             "Minimize":{"value":"最小化"},
             "Zoom":{"value":"缩放"},
-            "Bring All to Front":{"value":"置顶所有窗口"},
-            "名称":{"value":"翻译"}
+            "Bring All to Front":{"value":"置顶所有窗口"}
         }
     },
     "Help":{
