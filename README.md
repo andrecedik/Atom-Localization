@@ -34,7 +34,7 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
-##### Verison 0.9.0
+##### Version 0.9.0
 * Add Danish Support. (By [Per](https://github.com/thedataking))
 
 ##### Version 0.8.0
