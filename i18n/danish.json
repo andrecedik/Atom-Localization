@@ -3,173 +3,173 @@
     "Atom":{
         "value":"Atom",
         "submenu":{
-            "About Atom":{"value":"Your Translation"},
-            "View License":{"value":"Your Translation"},
-            "Preferences...":{"value":"Your Translation"},
-            "Open Your Config":{"value":"Your Translation"},
-            "Open Your Init Script":{"value":"Your Translation"},
-            "Open Your Keymap":{"value":"Your Translation"},
-            "Open Your Snippets":{"value":"Your Translation"},
-            "Open Your Stylesheet":{"value":"Your Translation"},
-            "Install Shell Commands":{"value":"Your Translation"},
-            "Hide Atom":{"value":"Your Translation"},
-            "Hide Others":{"value":"Your Translation"},
-            "Show All":{"value":"Your Translation"},
-            "Quit":{"value":"Your Translation"}
+            "About Atom":{"value":"Om Atom"},
+            "View License":{"value":"Vis Licens"},
+            "Preferences...":{"value":"Indstillinger..."},
+            "Open Your Config":{"value":"Åbn Din Konfigurationsfil"},
+            "Open Your Init Script":{"value":"Åbn Dit Init Script"},
+            "Open Your Keymap":{"value":"Åbn Din Keyboardmapping"},
+            "Open Your Snippets":{"value":"Åbn Dine Snippets"},
+            "Open Your Stylesheet":{"value":"Åbn Dit Stylesheet"},
+            "Install Shell Commands":{"value":"Installer Kommandolinie Værktøjer"},
+            "Hide Atom":{"value":"Skjul Atom"},
+            "Hide Others":{"value":"Skjul Andre"},
+            "Show All":{"value":"Vis Alle"},
+            "Quit":{"value":"Afslut"}
         }
     },
     "File":{
-        "value":"Your Translation",
+        "value":"Filer",
         "submenu":{
-            "New Window":{"value":"Your Translation"},
-            "New File":{"value":"Your Translation"},
-            "Open...":{"value":"Your Translation"},
-            "Reopen Last Item":{"value":"Your Translation"},
-            "Save":{"value":"Your Translation"},
-            "Save As...":{"value":"Your Translation"},
-            "Save All":{"value":"Your Translation"},
-            "Close Buffer":{"value":"Your Translation"},
-            "Close All Buffers":{"value":"Your Translation"},
-            "Close Window":{"value":"Your Translation"}
+            "New Window":{"value":"Nyt Vindue"},
+            "New File":{"value":"Ny Fil"},
+            "Open...":{"value":"Åbn..."},
+            "Reopen Last Item":{"value":"Genåbn sidste element"},
+            "Save":{"value":"Gem"},
+            "Save As...":{"value":"Gem Som..."},
+            "Save All":{"value":"Gem Alle"},
+            "Close Buffer":{"value":"Luk Buffer"},
+            "Close All Buffers":{"value":"Luk Alle Buffere"},
+            "Close Window":{"value":"Luk Vindue"}
         }
     },
     "Edit":{
-        "value":"Your Translation",
+        "value":"Rediger",
         "submenu":{
-            "Undo":{"value":"Your Translation"},
-            "Redo":{"value":"Your Translation"},
-            "Cut":{"value":"Your Translation"},
-            "Copy":{"value":"Your Translation"},
-            "Copy Path":{"value":"Your Translation"},
-            "Paste":{"value":"Your Translation"},
-            "Select All":{"value":"Your Translation"},
-            "Toggle Comments":{"value":"Your Translation"},
+            "Undo":{"value":"Fortryd"},
+            "Redo":{"value":"Anuller Fortryd"},
+            "Cut":{"value":"Klip"},
+            "Copy":{"value":"Kopier"},
+            "Copy Path":{"value":"Kopier Sti"},
+            "Paste":{"value":"Indsæt"},
+            "Select All":{"value":"Vælg Alt"},
+            "Toggle Comments":{"value":"Kommentarer Til/Fra"},
             "Lines":{
-                "value":"Your Translation",
+                "value":"Linier",
                 "submenu":{
-                    "Indent":{"value":"Your Translation"},
-                    "Outdent":{"value":"Your Translation"},
-                    "Auto Indent":{"value":"Your Translation"},
-                    "Move Line Up":{"value":"Your Translation"},
-                    "Move Line Down":{"value":"Your Translation"},
-                    "Duplicate Line":{"value":"Your Translation"},
-                    "Delete Line":{"value":"Your Translation"},
-                    "Join Lines":{"value":"Your Translation"}
+                    "Indent":{"value":"Forøg Indrykningen"},
+                    "Outdent":{"value":"Formindsk Indrykningen"},
+                    "Auto Indent":{"value":"Indryk Automatisk"},
+                    "Move Line Up":{"value":"Flyt Linie Opad"},
+                    "Move Line Down":{"value":"Flyt Linie Nedad"},
+                    "Duplicate Line":{"value":"Duplikér Linie"},
+                    "Delete Line":{"value":"Slet Linje"},
+                    "Join Lines":{"value":"Kombiner Linjer"}
                 }
             },
             "Text":{
-                "value":"Your Translation",
+                "value":"Tekst",
                 "submenu":{
-                    "Upper Case":{"value":"Your Translation"},
-                    "Lower Case":{"value":"Your Translation"},
-                    "Delete to End of Word":{"value":"Your Translation"},
-                    "Delete Line":{"value":"Your Translation"},
-                    "Transpose":{"value":"Your Translation"}
+                    "Upper Case":{"value":"Store Bogstaver"},
+                    "Lower Case":{"value":"Små Bogstaver"},
+                    "Delete to End of Word":{"value":"Slet til Slutningen af Ordet"},
+                    "Delete Line":{"value":"Slet Linje"},
+                    "Transpose":{"value":"Transponér"}
                 }
             },
             "Folding":{
-                "value":"Your Translation",
+                "value":"Foldning",
                 "submenu":{
-                    "Fold":{"value":"Your Translation"},
-                    "Unfold":{"value":"Your Translation"},
-                    "Unfold All":{"value":"Your Translation"},
-                    "Fold All":{"value":"Your Translation"},
-                    "Fold Level 1":{"value":"Your Translation"},
-                    "Fold Level 2":{"value":"Your Translation"},
-                    "Fold Level 3":{"value":"Your Translation"},
-                    "Fold Level 4":{"value":"Your Translation"},
-                    "Fold Level 5":{"value":"Your Translation"},
-                    "Fold Level 6":{"value":"Your Translation"},
-                    "Fold Level 7":{"value":"Your Translation"},
-                    "Fold Level 8":{"value":"Your Translation"},
-                    "Fold Level 9":{"value":"Your Translation"}
+                    "Fold":{"value":"Fold"},
+                    "Unfold":{"value":"Fold Ud"},
+                    "Unfold All":{"value":"Udfold Alt"},
+                    "Fold All":{"value":"Fold Alle"},
+                    "Fold Level 1":{"value":"Fold Niveau 1"},
+                    "Fold Level 2":{"value":"Fold Niveau 2"},
+                    "Fold Level 3":{"value":"Fold Niveau 3"},
+                    "Fold Level 4":{"value":"Fold Niveau 4"},
+                    "Fold Level 5":{"value":"Fold Niveau 5"},
+                    "Fold Level 6":{"value":"Fold Niveau 6"},
+                    "Fold Level 7":{"value":"Fold Niveau 7"},
+                    "Fold Level 8":{"value":"Fold Niveau 8"},
+                    "Fold Level 9":{"value":"Fold Niveau 9"}
                 }
             },
-            "Go to Line":{"value":"Your Translation"},
-            "Reflow Paragraph":{"value":"Your Translation"},
+            "Go to Line":{"value":"Gå til Linienummer"},
+            "Reflow Paragraph":{"value":"Ombryd Paragraf"},
             "Bookmark":{
-                "value":"Your Translation",
+                "value":"Bogmærke",
                 "submenu":{
-                    "View All":{"value":"Your Translation"},
-                    "Toggle Bookmark":{"value":"Your Translation"},
-                    "Jump to Next Bookmark":{"value":"Your Translation"},
-                    "Jump to Previous Bookmark":{"value":"Your Translation"}
+                    "View All":{"value":"Vis Alle"},
+                    "Toggle Bookmark":{"value":"Bogmærke Til/Fra"},
+                    "Jump to Next Bookmark":{"value":"Spring til Næste Bogmærke"},
+                    "Jump to Previous Bookmark":{"value":"Spring til Forrige Bogmærke"}
                 }
             },
-            "Select Grammar":{"value":"Your Translation"}
+            "Select Grammar":{"value":"Vælg Gammatik"}
         }
     },
     "Selection":{
-        "value":"Your Translation",
+        "value":"Markering",
         "submenu":{
-            "Add Selection Above":{"value":"Your Translation"},
-            "Add Selection Below":{"value":"Your Translation"},
-            "Split into Lines":{"value":"Your Translation"},
-            "Select to Top":{"value":"Your Translation"},
-            "Select to Bottom":{"value":"Your Translation"},
-            "Select Line":{"value":"Your Translation"},
-            "Select Word":{"value":"Your Translation"},
-            "Select to Beginning of Word":{"value":"Your Translation"},
-            "Select to Beginning of Line":{"value":"Your Translation"},
-            "Select to First Character of Line":{"value":"Your Translation"},
-            "Select to End of Word":{"value":"Your Translation"},
-            "Select to End of Line":{"value":"Your Translation"}
+            "Add Selection Above":{"value":"Udvid Markering Opad"},
+            "Add Selection Below":{"value":"Udvid Markering Nedad"},
+            "Split into Lines":{"value":"Inddel i Linier"},
+            "Select to Top":{"value":"Marker til Top"},
+            "Select to Bottom":{"value":"Marker til Bund"},
+            "Select Line":{"value":"Marker Linie"},
+            "Select Word":{"value":"Marker Ord"},
+            "Select to Beginning of Word":{"value":"Marker til Start på Ordet"},
+            "Select to Beginning of Line":{"value":"Marker til Start på Linien"},
+            "Select to First Character of Line":{"value":"Marker til Første Bogstav i Linjen"},
+            "Select to End of Word":{"value":"Marker til Sidst i Ordet"},
+            "Select to End of Line":{"value":"Marker til Slutningen af Linien"}
         }
     },
     "Find":{
-        "value":"Your Translation",
+        "value":"Find",
         "submenu":{
-            "Find in Buffer":{"value":"Your Translation"},
-            "Replace in Buffer":{"value":"Your Translation"},
-            "Select Next":{"value":"Your Translation"},
-            "Select All":{"value":"Your Translation"},
-            "Find in Project":{"value":"Your Translation"},
-            "Find Next":{"value":"Your Translation"},
-            "Find Previous":{"value":"Your Translation"},
-            "Replace Next":{"value":"Your Translation"},
-            "Replace All":{"value":"Your Translation"},
-            "Find Buffer":{"value":"Your Translation"},
-            "Find File":{"value":"Your Translation"},
-            "Find Modified File":{"value":"Your Translation"}
+            "Find in Buffer":{"value":"Find i Buffer"},
+            "Replace in Buffer":{"value":"Erstat i Buffer"},
+            "Select Next":{"value":"Vælg Næste"},
+            "Select All":{"value":"Vælg Alt"},
+            "Find in Project":{"value":"Find i Projekt"},
+            "Find Next":{"value":"Find Næste"},
+            "Find Previous":{"value":"Find Forrige"},
+            "Replace Next":{"value":"Erstat Næste"},
+            "Replace All":{"value":"Erstat Alle"},
+            "Find Buffer":{"value":"Find Buffer"},
+            "Find File":{"value":"Find Fil"},
+            "Find Modified File":{"value":"Find Ændret Fil"}
         }
     },
     "View":{
-        "value":"Your Translation",
+        "value":"Vis",
         "submenu":{
-            "Reload":{"value":"Your Translation"},
-            "Toggle Full Screen":{"value":"Your Translation"},
+            "Reload":{"value":"Genindlæs"},
+            "Toggle Full Screen":{"value":"Fuldskærmsvisning Til/Fra"},
             "Developer":{
-                "value":"Your Translation",
+                "value":"Udvikler",
                 "submenu":{
-                    "Open In Dev Mode...":{"value":"Your Translation"},
-                    "Run Atom Specs":{"value":"Your Translation"},
-                    "Run Package Specs":{"value":"Your Translation"},
-                    "Toggle Developer Tools":{"value":"Your Translation"}
+                    "Open In Dev Mode...":{"value":"Åben I Udviklingstilstand"},
+                    "Run Atom Specs":{"value":"Afvikl Atom Tests"},
+                    "Run Package Specs":{"value":"Afvikl Pakke Tests"},
+                    "Toggle Developer Tools":{"value":"Udvikler Værktøjer Til/Fra"}
                 }
             },
-            "Toggle Soft Wrap":{"value":"Your Translation"},
-            "Toggle Command Palette":{"value":"Your Translation"},
-            "Toggle Tree View":{"value":"Your Translation"}
+            "Toggle Soft Wrap":{"value":"Linieombrydning Til/Fra"},
+            "Toggle Command Palette":{"value":"Kommandovindue Til/Fra"},
+            "Toggle Tree View":{"value":"Trævisning Til/Fra"}
         }
     },
     "Packages":{
-        "value":"Your Translation"
+        "value":"Pakker"
     },
     "Window":{
-        "value":"Your Translation",
+        "value":"Vindue",
         "submenu":{
-            "Minimize":{"value":"Your Translation"},
-            "Zoom":{"value":"Your Translation"},
-            "Bring All to Front":{"value":"Your Translation"},
-            "名称":{"value":"Your Translation"}
+            "Minimize":{"value":"Minimer"},
+            "Zoom":{"value":"Zoom"},
+            "Bring All to Front":{"value":"Bring Alle Forrest"},
+            "名称":{"value":"Your Translation??"}
         }
     },
     "Help":{
-        "value":"Your Translation",
+        "value":"Hjælp",
         "submenu":{
-            "Documentation":{"value":"Your Translation"},
-            "Send Feedback":{"value":"Your Translation"},
-            "Release Notes":{"value":"Your Translation"}
+            "Documentation":{"value":"Dokumentation"},
+            "Send Feedback":{"value":"Send Feedback"},
+            "Release Notes":{"value":"Om Denne Version"}
         }
     }
   }
