@@ -33,6 +33,8 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
+##### Version 0.6.0
+	Remove old configuration when upgrade to new version
 
 #####Version 0.3.0
 	Fixed some bugs
