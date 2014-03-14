@@ -1,7 +1,7 @@
 {
   "name": "localization",
   "main": "./lib/main",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Localizations for Atom. Other translations are welcome.",
   "repository": "https://github.com/pandarison/Atom-Localization",
   "engines": {
