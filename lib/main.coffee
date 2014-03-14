@@ -4,11 +4,9 @@ module.exports =
     selection = atom.config.get("localization. - CurrentLanguage")
     if selection == "Default"
       return
-    console.log selection
     for l in languages
       if l["language"] == selection
         selection = l["path"]
-    console.log selection
     dict = require(selection)
     walker = (currentMenu, transMenu)->
       for i in currentMenu

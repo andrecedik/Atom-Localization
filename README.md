@@ -34,6 +34,9 @@ Any translation in languages not listed above are welcome, as well as better tra
 
 
 ###Release Notes
+##### Version 0.11.0
+* Upgrade to Atom 0.72.0
+
 ##### Version 0.9.0
 * Add Danish Support. (By [Per](https://github.com/thedataking))
 

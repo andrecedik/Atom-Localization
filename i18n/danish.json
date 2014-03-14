@@ -30,7 +30,7 @@
             "Save As...":{"value":"Gem Som..."},
             "Save All":{"value":"Gem Alle"},
             "Close Buffer":{"value":"Luk Buffer"},
-            "Close All Buffers":{"value":"Luk Alle Buffere"},
+            "Close Pane":{"value":"Luk Alle Buffere"},
             "Close Window":{"value":"Luk Vindue"}
         }
     },

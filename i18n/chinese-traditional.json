@@ -30,7 +30,7 @@
             "Save As...":{"value":"另存為..."},
             "Save All":{"value":"全部保存"},
             "Close Buffer":{"value":"關閉當前文件"},
-            "Close All Buffers":{"value":"關閉所有文件"},
+            "Close Pane":{"value":"關閉所有文件"},
             "Close Window":{"value":"關閉窗口"}
         }
     },
