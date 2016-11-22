@@ -1,0 +1,387 @@
+{
+    "menu": {
+        "Atom": {
+            "value": "Atom",
+            "submenu": {
+                "About Atom": {
+                    "value": "Apie „Atom“"
+                },
+                "View License": {
+                    "value": "Žiūrėti licenciją"
+                },
+                "Preferences...": {
+                    "value": "Nustatymai..."
+                },
+                "Open Your Config": {
+                    "value": "Atidaryti asmeninę konfigūraciją"
+                },
+                "Open Your Init Script": {
+                    "value": "Atidaryti savo pirminį skriptą"
+                },
+                "Open Your Keymap": {
+                    "value": "Atidaryti sparčiuosius klavišus"
+                },
+                "Open Your Snippets": {
+                    "value": "Atidaryti savo kodo fragmentus"
+                },
+                "Open Your Stylesheet": {
+                    "value": "Atidaryti savo stilių"
+                },
+                "Install Shell Commands": {
+                    "value": "Įdiegti Shell komandas"
+                },
+                "Hide Atom": {
+                    "value": "Paslėpti „Atom“"
+                },
+                "Hide Others": {
+                    "value": "Paslėpti kitus"
+                },
+                "Show All": {
+                    "value": "Rodyti viską"
+                },
+                "Quit": {
+                    "value": "Išeiti"
+                },
+                "Check for Update": {
+                    "value": "Ieškoti atnaujinimų"
+                }
+            }
+        },
+        "File": {
+            "value": "Failas",
+            "submenu": {
+                "New Window": {
+                    "value": "Naujas langas"
+                },
+                "New File": {
+                    "value": "Naujas failas"
+                },
+                "Open...": {
+                    "value": "Atidaryti..."
+                },
+                "Reopen Last Item": {
+                    "value": "Atidaryti paskutinį elementą"
+                },
+                "Save": {
+                    "value": "Išsaugoti"
+                },
+                "Save As...": {
+                    "value": "Išsaugoti kaip..."
+                },
+                "Save All": {
+                    "value": "Išsaugoti viską"
+                },
+                "Close Buffer": {
+                    "value": "Uždaryti buferį"
+                },
+                "Close Pane": {
+                    "value": "Uždaryti skydelį"
+                },
+                "Close Window": {
+                    "value": "Uždaryti langą"
+                }
+            }
+        },
+        "Edit": {
+            "value": "Taisa",
+            "submenu": {
+                "Undo": {
+                    "value": "Atšaukti"
+                },
+                "Redo": {
+                    "value": "Atstatyti"
+                },
+                "Cut": {
+                    "value": "Iškirpti"
+                },
+                "Copy": {
+                    "value": "Kopijuoti"
+                },
+                "Copy Path": {
+                    "value": "Kopijuoti kelią"
+                },
+                "Paste": {
+                    "value": "Įklijuoti"
+                },
+                "Select All": {
+                    "value": "Pasirinkti viską"
+                },
+                "Toggle Comments": {
+                    "value": "Perjungti komentarus"
+                },
+                "Lines": {
+                    "value": "Eilutės",
+                    "submenu": {
+                        "Indent": {
+                            "value": "Your Translation"
+                        },
+                        "Outdent": {
+                            "value": "Your Translation"
+                        },
+                        "Auto Indent": {
+                            "value": "Your Translation"
+                        },
+                        "Move Line Up": {
+                            "value": "Perkelti aukštyn"
+                        },
+                        "Move Line Down": {
+                            "value": "Perkelti žemyn"
+                        },
+                        "Duplicate Lines": {
+                            "value": "Dubliuoti"
+                        },
+                        "Delete Line": {
+                            "value": "Ištrinti"
+                        },
+                        "Join Lines": {
+                            "value": "Apjungti"
+                        }
+                    }
+                },
+                "Text": {
+                    "value": "Tekstas",
+                    "submenu": {
+                        "Upper Case": {
+                            "value": "Didžiosios raidės"
+                        },
+                        "Lower Case": {
+                            "value": "Mažosios raidės"
+                        },
+                        "Delete to End of Word": {
+                            "value": "Ištrinti žodžio pabaigą"
+                        },
+                        "Delete Line": {
+                            "value": "Ištrinti eilutę"
+                        },
+                        "Transpose": {
+                            "value": "Your Translation"
+                        }
+                    }
+                },
+                "Folding": {
+                    "value": "Your Translation",
+                    "submenu": {
+                        "Fold": {
+                            "value": "Your Translation"
+                        },
+                        "Unfold": {
+                            "value": "Your Translation"
+                        },
+                        "Unfold All": {
+                            "value": "Your Translation"
+                        },
+                        "Fold All": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 1": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 2": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 3": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 4": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 5": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 6": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 7": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 8": {
+                            "value": "Your Translation"
+                        },
+                        "Fold Level 9": {
+                            "value": "Your Translation"
+                        }
+                    }
+                },
+                "Go to Line": {
+                    "value": "Eiti į eilutę"
+                },
+                "Reflow Paragraph": {
+                    "value": "Your Translation"
+                },
+                "Bookmark": {
+                    "value": "Žymė",
+                    "submenu": {
+                        "View All": {
+                            "value": "Rodyti visas"
+                        },
+                        "Toggle Bookmark": {
+                            "value": "Your Translation"
+                        },
+                        "Jump to Next Bookmark": {
+                            "value": "Your Translation"
+                        },
+                        "Jump to Previous Bookmark": {
+                            "value": "Your Translation"
+                        }
+                    }
+                },
+                "Select Grammar": {
+                    "value": "Pasirinkti gramatiką"
+                }
+            }
+        },
+        "Selection": {
+            "value": "Pasirinkimas",
+            "submenu": {
+                "Add Selection Above": {
+                    "value": "Your Translation"
+                },
+                "Add Selection Below": {
+                    "value": "Your Translation"
+                },
+                "Split into Lines": {
+                    "value": "Your Translation"
+                },
+                "Select to Top": {
+                    "value": "Your Translation"
+                },
+                "Select to Bottom": {
+                    "value": "Your Translation"
+                },
+                "Select Line": {
+                    "value": "Your Translation"
+                },
+                "Select Word": {
+                    "value": "Your Translation"
+                },
+                "Select to Beginning of Word": {
+                    "value": "Your Translation"
+                },
+                "Select to Beginning of Line": {
+                    "value": "Your Translation"
+                },
+                "Select to First Character of Line": {
+                    "value": "Your Translation"
+                },
+                "Select to End of Word": {
+                    "value": "Your Translation"
+                },
+                "Select to End of Line": {
+                    "value": "Your Translation"
+                }
+            }
+        },
+        "Find": {
+            "value": "Rasti",
+            "submenu": {
+                "Find in Buffer": {
+                    "value": "Your Translation"
+                },
+                "Replace in Buffer": {
+                    "value": "Your Translation"
+                },
+                "Select Next": {
+                    "value": "Your Translation"
+                },
+                "Select All": {
+                    "value": "Your Translation"
+                },
+                "Find in Project": {
+                    "value": "Your Translation"
+                },
+                "Find Next": {
+                    "value": "Your Translation"
+                },
+                "Find Previous": {
+                    "value": "Your Translation"
+                },
+                "Replace Next": {
+                    "value": "Your Translation"
+                },
+                "Replace All": {
+                    "value": "Your Translation"
+                },
+                "Find Buffer": {
+                    "value": "Your Translation"
+                },
+                "Find File": {
+                    "value": "Your Translation"
+                },
+                "Find Modified File": {
+                    "value": "Your Translation"
+                }
+            }
+        },
+        "View": {
+            "value": "Peržiūra",
+            "submenu": {
+                "Reload": {
+                    "value": "Your Translation"
+                },
+                "Toggle Full Screen": {
+                    "value": "Your Translation"
+                },
+                "Developer": {
+                    "value": "Your Translation",
+                    "submenu": {
+                        "Open In Dev Mode...": {
+                            "value": "Your Translation"
+                        },
+                        "Run Atom Specs": {
+                            "value": "Your Translation"
+                        },
+                        "Run Package Specs": {
+                            "value": "Your Translation"
+                        },
+                        "Toggle Developer Tools": {
+                            "value": "Your Translation"
+                        }
+                    }
+                },
+                "Toggle Soft Wrap": {
+                    "value": "Your Translation"
+                },
+                "Toggle Command Palette": {
+                    "value": "Your Translation"
+                },
+                "Toggle Tree View": {
+                    "value": "Your Translation"
+                },
+                "Toggle Tree Side": {
+                    "value": "Your Translation"
+                }
+            }
+        },
+        "Packages": {
+            "value": "Paketai"
+        },
+        "Window": {
+            "value": "Langas",
+            "submenu": {
+                "Minimize": {
+                    "value": "Your Translation"
+                },
+                "Zoom": {
+                    "value": "Your Translation"
+                },
+                "Bring All to Front": {
+                    "value": "Your Translation"
+                }
+            }
+        },
+        "Help": {
+            "value": "Pagalba",
+            "submenu": {
+                "Documentation": {
+                    "value": "Dokumentacija"
+                },
+                "Send Feedback": {
+                    "value": "Atsiliepimas"
+                },
+                "Release Notes": {
+                    "value": "Your Translation"
+                }
+            }
+        }
+    }
+}
