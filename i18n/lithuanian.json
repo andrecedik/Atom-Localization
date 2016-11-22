@@ -48,69 +48,69 @@
             }
         },
         "File": {
-            "value": "Your Translation",
+            "value": "Failas",
             "submenu": {
                 "New Window": {
-                    "value": "Your Translation"
+                    "value": "Naujas langas"
                 },
                 "New File": {
-                    "value": "Your Translation"
+                    "value": "Naujas failas"
                 },
                 "Open...": {
-                    "value": "Your Translation"
+                    "value": "Atidaryti..."
                 },
                 "Reopen Last Item": {
-                    "value": "Your Translation"
+                    "value": "Atidaryti paskutinį elementą"
                 },
                 "Save": {
-                    "value": "Your Translation"
+                    "value": "Išsaugoti"
                 },
                 "Save As...": {
-                    "value": "Your Translation"
+                    "value": "Išsaugoti kaip..."
                 },
                 "Save All": {
-                    "value": "Your Translation"
+                    "value": "Išsaugoti viską"
                 },
                 "Close Buffer": {
-                    "value": "Your Translation"
+                    "value": "Uždaryti buferį"
                 },
                 "Close Pane": {
-                    "value": "Your Translation"
+                    "value": "Uždaryti skydelį"
                 },
                 "Close Window": {
-                    "value": "Your Translation"
+                    "value": "Uždaryti langą"
                 }
             }
         },
         "Edit": {
-            "value": "Your Translation",
+            "value": "Taisa",
             "submenu": {
                 "Undo": {
-                    "value": "Your Translation"
+                    "value": "Atšaukti"
                 },
                 "Redo": {
-                    "value": "Your Translation"
+                    "value": "Atstatyti"
                 },
                 "Cut": {
-                    "value": "Your Translation"
+                    "value": "Iškirpti"
                 },
                 "Copy": {
-                    "value": "Your Translation"
+                    "value": "Kopijuoti"
                 },
                 "Copy Path": {
-                    "value": "Your Translation"
+                    "value": "Kopijuoti kelią"
                 },
                 "Paste": {
-                    "value": "Your Translation"
+                    "value": "Įklijuoti"
                 },
                 "Select All": {
-                    "value": "Your Translation"
+                    "value": "Pasirinkti viską"
                 },
                 "Toggle Comments": {
-                    "value": "Your Translation"
+                    "value": "Perjungti komentarus"
                 },
                 "Lines": {
-                    "value": "Your Translation",
+                    "value": "Eilutės",
                     "submenu": {
                         "Indent": {
                             "value": "Your Translation"
@@ -122,36 +122,36 @@
                             "value": "Your Translation"
                         },
                         "Move Line Up": {
-                            "value": "Your Translation"
+                            "value": "Perkelti aukštyn"
                         },
                         "Move Line Down": {
-                            "value": "Your Translation"
+                            "value": "Perkelti žemyn"
                         },
                         "Duplicate Lines": {
-                            "value": "Your Translation"
+                            "value": "Dubliuoti"
                         },
                         "Delete Line": {
-                            "value": "Your Translation"
+                            "value": "Ištrinti"
                         },
                         "Join Lines": {
-                            "value": "Your Translation"
+                            "value": "Apjungti"
                         }
                     }
                 },
                 "Text": {
-                    "value": "Your Translation",
+                    "value": "Tekstas",
                     "submenu": {
                         "Upper Case": {
-                            "value": "Your Translation"
+                            "value": "Didžiosios raidės"
                         },
                         "Lower Case": {
-                            "value": "Your Translation"
+                            "value": "Mažosios raidės"
                         },
                         "Delete to End of Word": {
-                            "value": "Your Translation"
+                            "value": "Ištrinti žodžio pabaigą"
                         },
                         "Delete Line": {
-                            "value": "Your Translation"
+                            "value": "Ištrinti eilutę"
                         },
                         "Transpose": {
                             "value": "Your Translation"
@@ -203,16 +203,16 @@
                     }
                 },
                 "Go to Line": {
-                    "value": "Your Translation"
+                    "value": "Eiti į eilutę"
                 },
                 "Reflow Paragraph": {
                     "value": "Your Translation"
                 },
                 "Bookmark": {
-                    "value": "Your Translation",
+                    "value": "Žymė",
                     "submenu": {
                         "View All": {
-                            "value": "Your Translation"
+                            "value": "Rodyti visas"
                         },
                         "Toggle Bookmark": {
                             "value": "Your Translation"
@@ -226,12 +226,12 @@
                     }
                 },
                 "Select Grammar": {
-                    "value": "Your Translation"
+                    "value": "Pasirinkti gramatiką"
                 }
             }
         },
         "Selection": {
-            "value": "Your Translation",
+            "value": "Pasirinkimas",
             "submenu": {
                 "Add Selection Above": {
                     "value": "Your Translation"
@@ -272,7 +272,7 @@
             }
         },
         "Find": {
-            "value": "Your Translation",
+            "value": "Rasti",
             "submenu": {
                 "Find in Buffer": {
                     "value": "Your Translation"
@@ -313,7 +313,7 @@
             }
         },
         "View": {
-            "value": "Your Translation",
+            "value": "Peržiūra",
             "submenu": {
                 "Reload": {
                     "value": "Your Translation"
@@ -353,10 +353,10 @@
             }
         },
         "Packages": {
-            "value": "Your Translation"
+            "value": "Paketai"
         },
         "Window": {
-            "value": "Your Translation",
+            "value": "Langas",
             "submenu": {
                 "Minimize": {
                     "value": "Your Translation"
@@ -370,13 +370,13 @@
             }
         },
         "Help": {
-            "value": "Your Translation",
+            "value": "Pagalba",
             "submenu": {
                 "Documentation": {
-                    "value": "Your Translation"
+                    "value": "Dokumentacija"
                 },
                 "Send Feedback": {
-                    "value": "Your Translation"
+                    "value": "Atsiliepimas"
                 },
                 "Release Notes": {
                     "value": "Your Translation"
